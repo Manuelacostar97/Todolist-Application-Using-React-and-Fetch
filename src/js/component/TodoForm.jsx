@@ -60,7 +60,7 @@ function TodoForm  ()  {
 							<ul className="p-0 mt-3">
 								{ListTask}
 							</ul>
-							<div className="justify-content-center">You have {tasks.length} pending tasks!</div>
+							<div className="justify-content-center">Tienes {tasks.length} tareas pendientes!.</div>
 						</div>
 					)}
 			</div>	
